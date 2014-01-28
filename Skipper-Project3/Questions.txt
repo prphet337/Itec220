@@ -1,0 +1,135 @@
+What is the wind speed velocity of an unladened swallow?
+W: 50
+W: 30
+C: African or European
+W: do not know
+Stacks store information as?
+W: first in first out
+C: last in first out
+W: last in last out 
+W: none of the above
+In the Bible who interpreted the dreams of Pharaoh?
+C: Joseph
+W: Daniel
+W: David
+W: Samuel
+The flag of which country has the Star of David?
+W: USA
+W: Iraq
+C: Israel
+W: Nepal
+In which year was Magna Carta signed?
+W: 1603
+W: 1066
+W: 1707
+C: 1215
+When was Carthage destroyed?
+C: 149 B.C.
+W: 323 B.C.
+W: 44 A.D.
+W: 70 A.D.
+Which country is ruled by a single dynasty for more than two thousand years?
+W: England
+W: Persia
+C: Japan
+W: Egypt
+Who is the author of Ben Hur?
+W: William Shakespeare
+W: Bernard Shaw
+W: Victor Hugo
+C: Lew Wallace
+Which game is played with five players on either side?
+C: Basketball
+W: Volleyball
+W: Hockey
+W: Football
+Which is the national flower of Ireland?
+C: Shamrock
+W: Daffodil
+W: Marigold
+W: Jasmine
+Which is the capital of Afghanistan?
+W: Teheran
+W: Baghdad
+C: Kabul
+W: Tashkent
+What is the baptismal name of Pope John XXIII?
+W: Albino Luciani
+C: Angelo Roncalli
+W: Aldo Moro
+W: Sandro Pertini
+Where is Emperor Akbar’s tomb?
+W: Delhi
+W: Amarkot
+W: Agra
+C: Sikandra
+Who died in the Battle of Trafalgar?
+W: Napoleon Bonaparte
+C: Horatio Nelson
+W: Francis Drake
+W: Charles Martel
+To which Order did Martin Luther belong?
+C: Augustinian
+W: Dominican
+W: Capuchin
+W: Franciscan
+What is the type of Government in Swaziland?
+C: Monarchy
+W: Aristocracy
+W: Theocracy
+W: Anarchy
+Who killed US President Abraham Lincoln?
+W: Lee Harvey Oswald
+W: John Hinckley
+C: John Wilkes Booth
+W: Michael Schiavo
+Who won the Hockey World Cup in 1975?
+C: India
+W: Pakistan
+W: Germany
+W: Australia
+Which TV news channel began telecast in 1980?
+W: Star News
+C: CNN
+W: BBC
+W: Fox News
+Which of the following is not a gas?
+W: Nitrogen
+W: Oxygen
+W: Helium
+C: Mercury
+Which state was known as Mysore?
+W: Kerala
+W: Andhra Pradesh
+C: Karnataka
+W: Tamil Nadu
+Who was the Czar of Russia in 1917?
+C: Nicholas II
+W: Alexander II
+W: Ivan IV
+W: Peter II
+What is the height of the proposed Burj Tower in Dubai?
+W: 400 meters
+W: 520 meters
+W: 600 meters
+C: 800 meters
+The islands Hokkaido, Honshu, Shikoku and Kyushu are part of which country?
+W: Philippines
+W: S. Korea
+C: Japan
+W: Vietnam
+Who is the patron saint of Australia?
+W: St. Peter
+C: Mary Help of Christians
+W: St. Paul
+W: St. Rock
+When is the Feast Day of St. John the Baptist?
+W: March 19
+C: June 24
+W: July 19
+W: August 15
+Which of the following countries is landlocked?
+C: Switzerland
+W: Italy
+W: Spain
+W: France
